@@ -12,6 +12,7 @@ function App() {
             <div>develop/popup branch commit 2</div>
             <div>develop/login branch commit 1</div>
             <div>develop/login branch commit 2</div>
+            <div>Main branch commit 4</div>
         </div>
     );
 }
