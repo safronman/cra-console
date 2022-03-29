@@ -15,8 +15,6 @@ function App() {
             <div>Main branch commit 4</div>
             <p>11</p>
         </div>
-
-
     );
 }
 
