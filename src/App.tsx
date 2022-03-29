@@ -24,13 +24,7 @@ function App() {
                 <div>develop/login branch commit 2</div>
             </main>
 
-            <main>
-                <div>develop/login branch commit 3</div>
-            </main>
-
-            <main>
-                <div>develop/login branch commit ffds</div>
-            </main>
+            <h1>fsdfsdfsdf</h1>
         </div>
     );
 }
